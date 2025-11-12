@@ -1,5 +1,7 @@
 # Utility Scripts
 
+![DMZTools Logo](images/logo.png)
+
 Three helper scripts live in this folder:
 
 - `merge_pdf.py` merges two source PDFs into a new file using `PyPDF2`.
